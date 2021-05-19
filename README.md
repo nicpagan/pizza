@@ -1,7 +1,7 @@
 # pizza
 A simple html and css website.
 
-##About Me
+## About Me
 
  * Personal Portfolio
  * GitHub Profile
