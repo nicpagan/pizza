@@ -1,5 +1,6 @@
 # pizza
 A simple html and css website.
+https://nicpagan.github.io/pizza/
 
 ## About Me
 
